@@ -52,6 +52,9 @@
         "text_encoding": "cpp",
         "typeinfo": "cpp",
         "variant": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "bitset": "cpp",
+        "regex": "cpp",
+        "sstream": "cpp"
     }
 }
